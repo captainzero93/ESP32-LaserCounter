@@ -21,7 +21,7 @@ The schematic shows the basic setup of the ESP32-LaserCounter system. on older c
 - 3.3V voltage regulator for powering the ESP32
 - 2.2k Ohm resistor for current limiting
 
-Note: The schematic will be updated in future releases to reflect the move to the ESP32 platform and include additional components like the OLED display and input buttons.
+Note: I would reccomend the ESP32 platform and include additional components like the OLED display and input buttons.
 
 ## Features
 
