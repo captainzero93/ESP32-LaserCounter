@@ -103,7 +103,7 @@ This project is intended for educational and research purposes only. The use of 
 
 ## Meta
 
-[Joe Faulkner] (captainzero93). (2024). [https://github.com/captainzero93/security_harden_linux](https://github.com/captainzero93/ESP32-LaserCounter)
+[Joe Faulkner] (captainzero93). (2024). [(https://github.com/captainzero93/ESP32-LaserCounter)](https://github.com/captainzero93/ESP32-LaserCounter)
 
 Distributed under the GNU General Public License v3.0. See [LICENSE](LICENSE) for more information.
 
