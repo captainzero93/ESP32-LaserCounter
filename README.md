@@ -37,12 +37,12 @@ Note: The schematic will be updated in future releases to reflect the move to th
 
 | Component | Recommended Model | Purchase Link |
 |-----------|-------------------|----------------|
-| ESP32 Development Board | LOLIN32 | [Amazon](https://www.amazon.com/dp/B08246MCL5) |
-| 2.2k Ohm Resistor | 1/4W 1% | [Amazon](https://www.amazon.com/dp/B07HDFHPP3) |
-| 3.3V Voltage Regulator | AMS1117-3.3 | [Amazon](https://www.amazon.com/dp/B07CP4P5XJ) |
-| NPN Transistor | TIP102 | [Amazon](https://www.amazon.com/dp/B07PDCW2Z3) |
-| 940nm LED Array | 5W High Power IR LED | [Amazon](https://www.amazon.com/dp/B07KW3VHVF) |
-| OLED Display | 0.96" I2C SSD1306 | [Amazon](https://www.amazon.com/dp/B08RWMPZ69) |
+| ESP32 Development Board | LOLIN32 | 
+| 2.2k Ohm Resistor | 1/4W 1% |
+| 3.3V Voltage Regulator | AMS1117-3.3 |
+| NPN Transistor | TIP102 |
+| 940nm LED Array | 5W High Power IR LED |
+| OLED Display | 0.96" I2C SSD1306 |
 
 ## Software Setup
 
