@@ -35,8 +35,8 @@ Note: The schematic will be updated in future releases to reflect the move to th
 
 ## Hardware Requirements
 
-| Component | Recommended Model | Purchase Link |
-|-----------|-------------------|----------------|
+| Component | Recommended Model |
+|-----------|-------------------|
 | ESP32 Development Board | LOLIN32 | 
 | 2.2k Ohm Resistor | 1/4W 1% |
 | 3.3V Voltage Regulator | AMS1117-3.3 |
