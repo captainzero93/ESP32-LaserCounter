@@ -1,8 +1,6 @@
 # Not-Cotcha / Notcha-Cotcha
 
-## Open Source ESP32-Based Laser Countermeasure
-
-![Project Logo](https://raw.githubusercontent.com/hevnsnt/NOTCHACOTCHA/master/images/logo.png)
+## Open Source ESP32-Based Laser Countermeasure / suite 
 
 ## Overview
 
