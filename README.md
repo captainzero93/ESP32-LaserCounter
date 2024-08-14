@@ -107,7 +107,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Meta
 
-Created by: Captain Zero – [@captainzero93](https://twitter.com/captainzero93) – captain@zero.com
+[Joe Faulkner] (captainzero93). (2024). [https://github.com/captainzero93/security_harden_linux](https://github.com/captainzero93/ESP32-LaserCounter)
 
 Distributed under the GNU General Public License v3.0. See [LICENSE](LICENSE) for more information.
 
