@@ -1,4 +1,4 @@
-# ESP32-LaserCounter
+# ESP32 - Laser Counter
 
 An ESP32-based open-source laser countermeasure system for research and educational purposes. Simulates various LIDAR gun models and explores infrared signal manipulation techniques.
 
