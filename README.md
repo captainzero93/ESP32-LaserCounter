@@ -13,7 +13,7 @@ ESP32-LaserCounter is an educational project aimed at understanding and experime
 
 ![OLD Schematic](https://github.com/captainzero93/ESP32-LaserCounter/blob/master/images/schematic.png)
 
-The schematic shows the basic setup of the ESP32-LaserCounter system. Key components include:
+The schematic shows the basic setup of the ESP32-LaserCounter system. on older chips:
 
 - ESP32 development board (replacing the D1 Mini shown in the image)
 - TIP102 NPN transistor for controlling high-power LEDs
