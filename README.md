@@ -11,7 +11,7 @@ ESP32-LaserCounter is an educational project aimed at understanding and experime
 
 ## Schematic
 
-![Schematic](https://github.com/captainzero93/ESP32-LaserCounter/blob/master/images/schematic.png)
+![OLD Schematic](https://github.com/captainzero93/ESP32-LaserCounter/blob/master/images/schematic.png)
 
 The schematic shows the basic setup of the ESP32-LaserCounter system. Key components include:
 
