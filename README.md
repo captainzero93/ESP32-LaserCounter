@@ -1,21 +1,39 @@
-# Not-Cotcha / Notcha-Cotcha
+# ESP32-LaserCounter
 
-## Open Source ESP32-Based Laser Countermeasure / suite 
+An ESP32-based open-source laser countermeasure system for research and educational purposes. Simulates various LIDAR gun models and explores infrared signal manipulation techniques.
+
+**Exploring the science of light-based speed detection and countermeasures**
+
+![Project Logo](https://raw.githubusercontent.com/captainzero93/ESP32-LaserCounter/master/images/logo.png)
 
 ## Overview
 
-Not-Cotcha (also known as Notcha-Cotcha) is an open-source project aimed at developing a laser countermeasure system based on the ESP32 platform. This project is for educational and research purposes only.
+ESP32-LaserCounter is an educational project aimed at understanding and experimenting with LIDAR technology and infrared signal manipulation. This system simulates various laser speed gun models and provides a platform for researching countermeasure techniques.
 
-**IMPORTANT:** The use of laser jammers may be illegal in your jurisdiction. Always check and comply with local laws and regulations before building or using this device.
+**IMPORTANT:** This project is intended for educational and research purposes only. The use of laser jammers or similar devices may be illegal in your jurisdiction. Always check and comply with local laws and regulations before building or using this device.
+
+## Schematic
+
+![Schematic](https://github.com/captainzero93/ESP32-LaserCounter/blob/master/images/schematic.png)
+
+The schematic shows the basic setup of the ESP32-LaserCounter system. Key components include:
+
+- ESP32 development board (replacing the D1 Mini shown in the image)
+- TIP102 NPN transistor for controlling high-power LEDs
+- 940nm 12V LED Array for infrared output
+- 3.3V voltage regulator for powering the ESP32
+- 2.2k Ohm resistor for current limiting
+
+Note: The schematic will be updated in future releases to reflect the move to the ESP32 platform and include additional components like the OLED display and input buttons.
 
 ## Features
 
 - ESP32-based architecture for improved performance and connectivity
 - 12V circuitry for automobile installation
-- 940nm brute force mode for effective countermeasures
+- 940nm infrared LED array for signal emission
 - Wireless connectivity with companion Android app
-- Laser gun emulation mode for testing and research
-- MIRT (Mobile Infrared Transmitter) mode (use with extreme caution)
+- Multiple laser gun emulation modes
+- MIRT (Mobile Infrared Transmitter) mode simulation
 - Over-the-air (OTA) firmware updates
 
 ## Hardware Requirements
@@ -29,10 +47,6 @@ Not-Cotcha (also known as Notcha-Cotcha) is an open-source project aimed at deve
 | 940nm LED Array | 5W High Power IR LED | [Amazon](https://www.amazon.com/dp/B07KW3VHVF) |
 | OLED Display | 0.96" I2C SSD1306 | [Amazon](https://www.amazon.com/dp/B08RWMPZ69) |
 
-## Schematic
-
-![Schematic](https://github.com/hevnsnt/NOTCHACOTCHA/blob/master/images/schematic.png)
-
 ## Software Setup
 
 1. Install the Arduino IDE (version 2.0 or later)
@@ -43,9 +57,9 @@ Not-Cotcha (also known as Notcha-Cotcha) is an open-source project aimed at deve
    - ArduinoJson
 4. Clone this repository:
    ```
-   git clone https://github.com/hevnsnt/NOTCHACOTCHA.git
+   git clone https://github.com/captainzero93/ESP32-LaserCounter.git
    ```
-5. Open the `notcha.ino` file in Arduino IDE
+5. Open the `ESP32-LaserCounter.ino` file in Arduino IDE
 6. Select your ESP32 board and port
 7. Compile and upload the sketch
 
@@ -58,17 +72,13 @@ Not-Cotcha (also known as Notcha-Cotcha) is an open-source project aimed at deve
 
 For detailed usage instructions, please refer to the [User Manual](docs/USER_MANUAL.md).
 
-## Android App
-
-The companion Android app provides a user-friendly interface for controlling and monitoring the Not-Cotcha device. You can find the app source code and installation instructions in the [Android App Repository](https://github.com/hevnsnt/NOTCHACOTCHA-Android).
-
 ## Legal Disclaimer
 
 This project is intended for educational and research purposes only. The use of laser jammers or similar devices may be illegal in your jurisdiction. Always check and comply with local laws and regulations. The creators and contributors of this project are not responsible for any misuse or legal consequences arising from the use of this device.
 
 ## Contributing
 
-We welcome contributions to improve Not-Cotcha! Here's how you can help:
+We welcome contributions to improve ESP32-LaserCounter! Here's how you can help:
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -92,18 +102,17 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Roadmap
 
-- Implement machine learning for adaptive countermeasures
+- Update schematic to reflect ESP32 architecture and additional components
+- Implement machine learning for adaptive signal generation
 - Add support for multiple LED arrays
 - Develop iOS companion app
 - Improve power efficiency for longer battery life
 
 ## Meta
 
-Created by: Bill Swearingen – [@hevnsnt](https://twitter.com/hevnsnt) – bill@seckc.org
+Created by: Captain Zero – [@captainzero93](https://twitter.com/captainzero93) – captain@zero.com
 
 Distributed under the GNU General Public License v3.0. See [LICENSE](LICENSE) for more information.
-
-For more projects, please visit [https://github.com/hevnsnt/](https://github.com/hevnsnt/)
 
 ## Acknowledgments
 
