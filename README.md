@@ -41,7 +41,7 @@ Note: I recommend the ESP32 platform and to include additional components like t
 | 940nm LED Array | Osram SFH 4550 or similar | 5W, 940nm, high-power IR LED |
 | OLED Display | 0.96" I2C SSD1306 128x64 | Monochrome display, widely compatible with ESP32 |
 
-**Note:** The exact models may vary based on availability and specific project requirements. Always check the datasheets and ensure compatibility with your design.
+**Note:** The exact models may vary based on availability and specific project requirements. Always check the datasheets and ensure compatibility with your design. I highly reccomend implementing a control button.
 
 ### Basic Assembly Instructions
 
