@@ -54,21 +54,45 @@ Note: I recommend the ESP32 platform and to include additional components like t
 
 **Important:** This is a basic guide.
 
-## Software Setup
+### Software Setup
 
-1. Install the Arduino IDE (version 2.0 or later)
-2. Add ESP32 board support to Arduino IDE
-3. Install required libraries:
-   - Adafruit GFX Library
-   - Adafruit SSD1306
-   - ArduinoJson
-4. Clone this repository:
-   ```
-   git clone https://github.com/captainzero93/ESP32-LaserCounter.git
-   ```
-5. Open the `notcha.ino` or `MIRT-COTCHA.ino` file in Arduino IDE
-6. Select your ESP32 board and port
-7. Compile and upload the sketch
+1. **Install the Arduino IDE (version 2.0 or later)**:
+   - Download the Arduino IDE from the official website.
+   - Follow the installation instructions for your operating system.
+
+2. **Add ESP32 board support to Arduino IDE**:
+   - Open the Arduino IDE.
+   - Go to **File > Preferences**.
+   - In the **Additional Board Manager URLs** field, add the following URL: `https://dl.espressif.com/dl/package_esp32_index.json`.
+   - Click **OK**.
+   - Go to **Tools > Board > Board Manager**.
+   - Search for "ESP32" and install the **ESP32 by Espressif Systems** package.
+
+3. **Install required libraries**:
+   - Go to **Sketch > Include Library > Manage Libraries**.
+   - Search for and install the following libraries:
+     - **Adafruit GFX Library**
+     - **Adafruit SSD1306**
+     - **ArduinoJson**
+
+4. **Clone this repository**:
+   - Open a terminal or command prompt.
+   - Run the following command to clone the repository:
+     ```bash
+     git clone https://github.com/captainzero93/ESP32-LaserCounter.git
+     ```
+
+5. **Open the project file in Arduino IDE**:
+   - Navigate to the cloned repository folder.
+   - Open either `notcha.ino` or `MIRT-COTCHA.ino` file in the Arduino IDE.
+
+6. **Select your ESP32 board and port**:
+   - Go to **Tools > Board** and select your ESP32 board model.
+   - Go to **Tools > Port** and select the port to which your ESP32 is connected.
+
+7. **Compile and upload the sketch**:
+   - Click the **Verify** button to compile the sketch.
+   - Click the **Upload** button to upload the sketch to your ESP32 board.
 
 ## Usage
 
