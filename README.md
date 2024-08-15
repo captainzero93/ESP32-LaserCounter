@@ -110,15 +110,13 @@ By using, contributing to, or distributing this project, you acknowledge that yo
 - Develop iOS companion app
 - Improve power efficiency for longer battery life
 
-## License
+License
+This project is available under a dual licence:
 
-This project is available under a dual license:
+Non-Commercial Use: For non-commercial purposes, this project is licenced under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). This allows for sharing and adaptation of the code for non-commercial purposes, with appropriate attribution.
+Commercial Use: Any commercial use, including but not limited to selling the code, using it in commercial products or services, or any revenue-generating activities, requires a separate commercial licence. You must contact the project owner to discuss terms before deployment.
 
-1. **Non-Commercial Use**: For non-commercial purposes, this project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). This allows for sharing and adaptation of the code for non-commercial purposes, with appropriate attribution.
-
-2. **Commercial Use**: Any commercial use, including but not limited to selling the code, using it in commercial products or services, or any revenue-generating activities, requires a separate commercial license. You must contact the project owner to discuss terms before deployment.
-
-Please see the [LICENSE](https://github.com/captainzero93/ESP32-LaserCounter/blob/master/LICENSE) file for full details on both licenses.
+Please see the LICENCE file for full details on both licences.
 
 By using this project, you agree to abide by the terms of the appropriate license based on your intended use.
 
