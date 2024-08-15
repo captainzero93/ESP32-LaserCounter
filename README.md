@@ -12,7 +12,7 @@ ESP32-LaserCounter is an educational project aimed at understanding and experime
 
 ![Schematic](schematic.png)
 
-Note: I would recommend the ESP32 platform and to include additional components like the OLED display and input buttons;
+Note: I recommend the ESP32 platform and to include additional components like the OLED display and input buttons;
 
 - ESP32 development board (replacing the D1 Mini shown in the image)
 - TIP102 NPN transistor for controlling high-power LEDs
