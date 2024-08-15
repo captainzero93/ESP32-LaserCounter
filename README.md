@@ -14,7 +14,7 @@ ESP32-LaserCounter is an educational project aimed at understanding and experime
 
 ![OLD Schematic](https://github.com/captainzero93/ESP32-LaserCounter/blob/master/images/schematic.png)
 
-The schematic shows the basic setup of the ESP32-LaserCounter system. on older chips:
+The schematic shows the basic setup of the ESP32-LaserCounter system. on older D1 chip:
 
 Note: I would reccomend the ESP32 platform and include additional components like the OLED display and input buttons;
 
