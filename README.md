@@ -125,7 +125,6 @@ By using, contributing to, or distributing this project, you acknowledge that yo
 
 ## Roadmap
 
-- Update schematic to reflect ESP32 architecture and additional components
 - Implement machine learning for adaptive signal generation
 - Add support for multiple LED arrays
 - Develop iOS/Android companion app
