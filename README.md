@@ -34,14 +34,16 @@ Note: I would recommend the ESP32 platform and include additional components lik
 
 ## Hardware Requirements
 
-| Component | Recommended Model |
-|-----------|-------------------|
-| ESP32 Development Board | LOLIN32 | 
-| 2.2k Ohm Resistor | 1/4W 1% |
-| 3.3V Voltage Regulator | AMS1117-3.3 |
-| NPN Transistor | TIP102 |
-| 940nm LED Array | 5W High Power IR LED |
-| OLED Display | 0.96" I2C SSD1306 |
+| Component | Recommended Model | Notes |
+|-----------|-------------------|-------|
+| ESP32 Development Board | ESP32-WROOM-32 or ESP32-WROVER-B | These modules offer good performance and built-in Wi-Fi/Bluetooth |
+| 2.2k Ohm Resistor | 2.2k Ohm, 1/4W, 1% tolerance | Metal film resistors are recommended for better precision |
+| 3.3V Voltage Regulator | XC6206P332MR | Low dropout regulator, better efficiency than AMS1117 |
+| NPN Transistor | 2N2222A or BC547 | Modern, widely available alternatives to TIP102 |
+| 940nm LED Array | Osram SFH 4550 or similar | 5W, 940nm, high-power IR LED |
+| OLED Display | 0.96" I2C SSD1306 128x64 | Monochrome display, widely compatible with ESP32 |
+
+Note: The exact models may vary based on availability and specific project requirements. Always check the datasheets and ensure compatibility with your design.
 
 ## Software Setup
 
