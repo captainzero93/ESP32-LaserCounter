@@ -56,7 +56,7 @@ Note: I would reccomend the ESP32 platform and include additional components lik
    ```
    git clone https://github.com/captainzero93/ESP32-LaserCounter.git
    ```
-5. Open the `ESP32-LaserCounter.ino` file in Arduino IDE
+5. Open the `notcha.ino` or `MIRT-COTCHA.ino` file in Arduino IDE
 6. Select your ESP32 board and port
 7. Compile and upload the sketch
 
