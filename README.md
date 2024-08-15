@@ -116,7 +116,7 @@ This project is available under a dual license:
 
 2. **Commercial Use**: Any commercial use, including but not limited to selling the code, using it in commercial products or services, or any revenue-generating activities, requires a separate commercial license. You must contact the project owner to discuss terms before deployment.
 
-Please see the [LICENSE](LICENSE) file for full details on both licenses.
+Please see the [ [LICENSE](LICENSE)](https://github.com/captainzero93/ESP32-LaserCounter/blob/master/LICENSE) file for full details on both licenses.
 
 For commercial licensing inquiries, please contact: joe.faulkner.0@gmail.com
 
