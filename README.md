@@ -99,18 +99,6 @@ This project is intended solely for educational and research purposes. The creat
 
 By using, contributing to, or distributing this project, you acknowledge that you have read, understood, and agreed to this disclaimer. If you do not agree to these terms, you must not use, access, or contribute to this project in any way.
 
-## Release History
-
-- 0.2.0 (2024-08-14)
-  - Migrated to ESP32 platform
-  - Added OTA update functionality
-  - Improved power management
-- 0.1.0 (2023-03-15)
-  - Added Android app support
-  - Implemented multiple laser gun emulation modes
-- 0.0.1 (2019-01-08)
-  - Initial release, presented at SecKC
-
 ## Roadmap
 
 - Update schematic to reflect ESP32 architecture and additional components
