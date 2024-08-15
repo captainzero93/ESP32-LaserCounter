@@ -86,8 +86,6 @@ This project is intended solely for educational and research purposes. The creat
 
 7. No Encouragement of Illegal Activities: Nothing in this project should be construed as encouragement to violate any laws or regulations. The project exists purely to further the understanding of LIDAR and related technologies.
 
-8. Modification and Distribution: If you modify or distribute any part of this project, you are required to include this disclaimer and ensure that any recipients are also aware of these terms.
-
 By using, contributing to, or distributing this project, you acknowledge that you have read, understood, and agreed to this disclaimer. If you do not agree to these terms, you must not use, access, or contribute to this project in any way.
 
 ## Release History
