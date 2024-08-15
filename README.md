@@ -32,7 +32,9 @@ Note: I would recommend the ESP32 platform and include additional components lik
 - Multiple laser gun emulation modes
 - MIRT (Mobile Infrared Transmitter) mode simulation
 
-## Hardware Requirements
+## Hardware Requirements and Build Guide
+
+### Components List
 
 | Component | Recommended Model | Notes |
 |-----------|-------------------|-------|
@@ -43,7 +45,18 @@ Note: I would recommend the ESP32 platform and include additional components lik
 | 940nm LED Array | Osram SFH 4550 or similar | 5W, 940nm, high-power IR LED |
 | OLED Display | 0.96" I2C SSD1306 128x64 | Monochrome display, widely compatible with ESP32 |
 
-Note: The exact models may vary based on availability and specific project requirements. Always check the datasheets and ensure compatibility with your design.
+**Note:** The exact models may vary based on availability and specific project requirements. Always check the datasheets and ensure compatibility with your design.
+
+### Basic Assembly Instructions
+
+1. Start with the ESP32 development board as the central component.
+2. Connect the 3.3V Voltage Regulator (XC6206P332MR) to power the ESP32.
+3. Use the 2.2k Ohm resistor for pull-up/pull-down purposes or current limiting, depending on your specific circuit design.
+4. Connect the NPN Transistor (2N2222A or BC547) to control the high-power IR LED array.
+5. Connect the 940nm LED Array (Osram SFH 4550 or similar) to the transistor.
+6. Connect the OLED Display (0.96" I2C SSD1306) to the ESP32's I2C pins.
+
+**Important:** This is a basic guide.
 
 ## Software Setup
 
