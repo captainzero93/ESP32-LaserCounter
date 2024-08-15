@@ -2,8 +2,6 @@
 
 An ESP32-based open-source laser countermeasure system for research and educational purposes. Simulates various LIDAR gun models and explores infrared signal manipulation techniques.
 
-**Exploring the science of light-based speed detection and countermeasures**
-
 ## Overview
 
 ESP32-LaserCounter is an educational project aimed at understanding and experimenting with LIDAR technology and infrared signal manipulation. This system simulates various laser speed gun models and provides a platform for researching countermeasure techniques.
