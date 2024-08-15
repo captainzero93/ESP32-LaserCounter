@@ -107,8 +107,8 @@ By using, contributing to, or distributing this project, you acknowledge that yo
 - Update schematic to reflect ESP32 architecture and additional components
 - Implement machine learning for adaptive signal generation
 - Add support for multiple LED arrays
-- Develop iOS companion app
-- Improve power efficiency for longer battery life
+- Develop iOS/Android companion app
+- Improve power efficiency
 
 ## License
 
