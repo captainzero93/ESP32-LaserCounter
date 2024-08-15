@@ -123,5 +123,5 @@ By using this project, you agree to abide by the terms of the appropriate licenc
 
 - SecKC community for hosting the first presentation of this project
 - Espressif Systems for developing the ESP32 and providing excellent documentation and tools
-- Adafruit for their excellent libraries, especially the Adafruit GFX Library and Adafruit SSD1306, which are crucial for this project
+- Adafruit for their libraries, especially the Adafruit GFX Library and Adafruit SSD1306, which are crucial for this project
 - All contributors who have helped improve this project through code contributions, bug reports, and feature suggestions (including those on Discord)
