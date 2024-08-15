@@ -15,13 +15,15 @@ ESP32-LaserCounter is an educational project aimed at understanding and experime
 
 The schematic shows the basic setup of the ESP32-LaserCounter system. on older chips:
 
+Note: I would reccomend the ESP32 platform and include additional components like the OLED display and input buttons;
+
 - ESP32 development board (replacing the D1 Mini shown in the image)
 - TIP102 NPN transistor for controlling high-power LEDs
 - 940nm 12V LED Array for infrared output
 - 3.3V voltage regulator for powering the ESP32
 - 2.2k Ohm resistor for current limiting
 
-Note: I would reccomend the ESP32 platform and include additional components like the OLED display and input buttons.
+
 
 ## Features
 
