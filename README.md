@@ -29,7 +29,6 @@ Note: I would reccomend the ESP32 platform and include additional components lik
 - ESP32-based architecture for improved performance and connectivity
 - 12V circuitry for automobile installation
 - 940nm infrared LED array for signal emission
-- Wireless connectivity with companion Android app
 - Multiple laser gun emulation modes
 - MIRT (Mobile Infrared Transmitter) mode simulation
 - Over-the-air (OTA) firmware updates
