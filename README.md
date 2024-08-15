@@ -133,8 +133,7 @@ By using this project, you agree to abide by the terms of the appropriate licenc
 
 ## Acknowledgments
 
-- SecKC community for their initial support, feedback, and hosting the first presentation of this project
+- SecKC community for hosting the first presentation of this project
 - Espressif Systems for developing the ESP32 and providing excellent documentation and tools
 - Adafruit for their excellent libraries, especially the Adafruit GFX Library and Adafruit SSD1306, which are crucial for this project
-- The Arduino community for their extensive resources and support
 - All contributors who have helped improve this project through code contributions, bug reports, and feature suggestions (including those on Discord)
