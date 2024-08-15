@@ -14,9 +14,9 @@ ESP32-LaserCounter is an educational project aimed at understanding and experime
 
 ![OLD Schematic](https://github.com/captainzero93/ESP32-LaserCounter/blob/master/images/schematic.png)
 
-The schematic shows the basic setup of the ESP32-LaserCounter system. on older D1 chip:
+The schematic shows the basic setup of the ESP32-LaserCounter system on older D1 chip:
 
-Note: I would reccomend the ESP32 platform and include additional components like the OLED display and input buttons;
+Note: I would recommend the ESP32 platform and include additional components like the OLED display and input buttons;
 
 - ESP32 development board (replacing the D1 Mini shown in the image)
 - TIP102 NPN transistor for controlling high-power LEDs
@@ -31,7 +31,6 @@ Note: I would reccomend the ESP32 platform and include additional components lik
 - 940nm infrared LED array for signal emission
 - Multiple laser gun emulation modes
 - MIRT (Mobile Infrared Transmitter) mode simulation
-- Over-the-air (OTA) firmware updates
 
 ## Hardware Requirements
 
@@ -109,15 +108,17 @@ By using, contributing to, or distributing this project, you acknowledge that yo
 - Develop iOS companion app
 - Improve power efficiency for longer battery life
 
-License
+## License
+
 This project is available under a dual licence:
 
-Non-Commercial Use: For non-commercial purposes, this project is licenced under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). This allows for sharing and adaptation of the code for non-commercial purposes, with appropriate attribution.
-Commercial Use: Any commercial use, including but not limited to selling the code, using it in commercial products or services, or any revenue-generating activities, requires a separate commercial licence. You must contact the project owner to discuss terms before deployment.
+1. **Non-Commercial Use**: For non-commercial purposes, this project is licenced under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). This allows for sharing and adaptation of the code for non-commercial purposes, with appropriate attribution.
+
+2. **Commercial Use**: Any commercial use, including but not limited to selling the code, using it in commercial products or services, or any revenue-generating activities, requires a separate commercial licence. You must contact the project owner to discuss terms before deployment.
 
 Please see the [LICENCE](LICENCE) file for full details on both licences.
 
-By using this project, you agree to abide by the terms of the appropriate license based on your intended use.
+By using this project, you agree to abide by the terms of the appropriate licence based on your intended use.
 
 ## Acknowledgments
 
