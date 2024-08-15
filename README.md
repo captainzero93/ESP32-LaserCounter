@@ -116,7 +116,7 @@ This project is available under a dual licence:
 Non-Commercial Use: For non-commercial purposes, this project is licenced under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). This allows for sharing and adaptation of the code for non-commercial purposes, with appropriate attribution.
 Commercial Use: Any commercial use, including but not limited to selling the code, using it in commercial products or services, or any revenue-generating activities, requires a separate commercial licence. You must contact the project owner to discuss terms before deployment.
 
-Please see the LICENCE file for full details on both licences.
+Please see the [LICENCE](LICENCE) file for full details on both licences.
 
 By using this project, you agree to abide by the terms of the appropriate license based on your intended use.
 
