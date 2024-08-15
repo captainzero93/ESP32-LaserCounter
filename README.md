@@ -67,8 +67,6 @@ Note: I would reccomend the ESP32 platform and include additional components lik
 3. Point the device towards the target
 4. Press the trigger button to activate
 
-For detailed usage instructions, please refer to the [User Manual](docs/USER_MANUAL.md).
-
 ## Legal Disclaimer
 
 This project is intended for educational and research purposes only. The use of laser jammers or similar devices may be illegal in your jurisdiction. Always check and comply with local laws and regulations. The creators and contributors of this project are not responsible for any misuse or legal consequences arising from the use of this device.
