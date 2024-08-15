@@ -12,7 +12,7 @@ ESP32-LaserCounter is an educational project aimed at understanding and experime
 
 ## Schematic
 
-![OLD Schematic](https://github.com/captainzero93/ESP32-LaserCounter/blob/master/images/schematic.png)
+![Schematic](schematic.png)
 
 The schematic shows the basic setup of the ESP32-LaserCounter system on older D1 chip:
 
@@ -122,18 +122,6 @@ By using, contributing to, or distributing this project, you acknowledge that yo
 - Add support for multiple LED arrays
 - Develop iOS/Android companion app
 - Improve power efficiency
-
-## License
-
-This project is available under a dual licence:
-
-1. **Non-Commercial Use**: For non-commercial purposes, this project is licenced under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). This allows for sharing and adaptation of the code for non-commercial purposes, with appropriate attribution.
-
-2. **Commercial Use**: Any commercial use, including but not limited to selling the code, using it in commercial products or services, or any revenue-generating activities, requires a separate commercial licence. You must contact the project owner to discuss terms before deployment.
-
-Please see the [LICENCE](LICENCE) file for full details on both licences.
-
-By using this project, you agree to abide by the terms of the appropriate licence based on your intended use.
 
 ## License
 
