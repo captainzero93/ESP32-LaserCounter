@@ -86,6 +86,8 @@ This project is intended solely for educational and research purposes. The creat
 
 7. No Encouragement of Illegal Activities: Nothing in this project should be construed as encouragement to violate any laws or regulations. The project exists purely to further the understanding of LIDAR and related technologies.
 
+8. Modification and Distribution: If you modify or distribute any part of this project, you are required to include this disclaimer and ensure that any recipients are also aware of these terms.
+
 By using, contributing to, or distributing this project, you acknowledge that you have read, understood, and agreed to this disclaimer. If you do not agree to these terms, you must not use, access, or contribute to this project in any way.
 
 ## Release History
@@ -116,9 +118,7 @@ This project is available under a dual license:
 
 2. **Commercial Use**: Any commercial use, including but not limited to selling the code, using it in commercial products or services, or any revenue-generating activities, requires a separate commercial license. You must contact the project owner to discuss terms before deployment.
 
-Please see the [ [LICENSE](LICENSE)](https://github.com/captainzero93/ESP32-LaserCounter/blob/master/LICENSE) file for full details on both licenses.
-
-For commercial licensing inquiries, please contact: joe.faulkner.0@gmail.com
+Please see the [LICENSE](https://github.com/captainzero93/ESP32-LaserCounter/blob/master/LICENSE) file for full details on both licenses.
 
 By using this project, you agree to abide by the terms of the appropriate license based on your intended use.
 
